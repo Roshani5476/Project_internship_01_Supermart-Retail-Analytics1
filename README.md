@@ -219,9 +219,9 @@ This is a portfolio project, but suggestions and feedback are welcome! Feel free
 
 ## 📧 Contact
 
-**[Your Name]**
+**Roshani Ahire**
 - LinkedIn: [Your LinkedIn]
-- Email: [Your Email]
+- Email: roshdahire1@gmail.com
 - Portfolio: [Your Website]
 
 ## 📄 License
